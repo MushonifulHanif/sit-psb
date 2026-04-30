@@ -1,0 +1,28 @@
+# PHP
+/vendor/
+.phpunit.result.cache
+
+# Application Uploads (Don't share private student data)
+/uploads/berkas_santri/*
+/uploads/pembayaran/*
+/uploads/recordings/*
+!/uploads/berkas_santri/.gitkeep
+!/uploads/pembayaran/.gitkeep
+!/uploads/recordings/.gitkeep
+
+# DB Config (Optional: keep if it's just local/dev)
+# config/database.php
+
+# Environment & OS
+.DS_Store
+Thumbs.db
+.env
+.idea/
+.vscode/
+*.log
+
+# Database & Archives
+*.sql
+*.zip
+*.rar
+*.7z
