@@ -10,6 +10,33 @@ Aplikasi web untuk manajemen penerimaan santri baru dengan fitur CBT (Computer B
 - **Notifikasi Terintegrasi**: Menggunakan sistem notifikasi internal dan Push Notification.
 - **Optimasi Mobile**: Desain responsif menggunakan Tailwind CSS.
 
+## Preview Tampilan
+
+### Halaman Publik
+<p align="center">
+  <img src="screenshots/landing_page.png" width="800" alt="Landing Page">
+</p>
+<p align="center">
+  <img src="screenshots/login_page.png" width="400" alt="Login Page">
+  <img src="screenshots/registration_page.png" width="400" alt="Registration Page">
+</p>
+
+### Panel Admin & Panitia
+<p align="center">
+  <img src="screenshots/admin_desktop.png" width="400" alt="Admin Dashboard">
+  <img src="screenshots/admin_mobile.png" width="200" alt="Admin Mobile">
+</p>
+<p align="center">
+  <img src="screenshots/sekretaris_desktop.png" width="400" alt="Sekretaris Dashboard">
+  <img src="screenshots/bendahara_desktop.jpg" width="400" alt="Bendahara Dashboard">
+</p>
+
+### Portal Santri & Ujian
+<p align="center">
+  <img src="screenshots/santri_ujian_desktop.png" width="400" alt="CBT Exam">
+  <img src="screenshots/sekretaris_set_ujian_desktop.jpg" width="400" alt="Set Ujian">
+</p>
+
 ## Teknologi yang Digunakan
 - **Backend**: PHP (MVC Architecture)
 - **Database**: MySQL (PDO)
